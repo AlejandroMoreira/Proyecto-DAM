@@ -9,7 +9,7 @@ _Curso del uso de Contruct2 y Construct3 para el desarrollo de videojuegos_
 * [Software online](https://editor.construct.net/) -> Herramienta usada para poder desarrollar el proyecto sin necesidad de instalar nada.
 
 ### Progreso 🚴
-* **Intoducción:** 100% -> 31/03/2020 📅
-* **Prototipo:** 0%
-* **Puliendo el juego:** 0%
-* **Terminar el juego y publicar:** 0%
+* [x] **Intoducción:** 100% -> 31/03/2020 📅
+* [x] **Prototipo:** 100% -> 01/04/2020 📅 [probar](https://alejandromoreira-constuctprototype.netlify.com/)
+* [ ] **Puliendo el juego:** 0%
+* [ ] **Terminar el juego y publicar:** 0%
