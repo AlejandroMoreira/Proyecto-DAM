@@ -11,5 +11,5 @@ _Curso del uso de Contruct2 y Construct3 para el desarrollo de videojuegos_
 ### Progreso 🚴
 * [x] **Intoducción:** 100% -> 31/03/2020 📅
 * [x] **Prototipo:** 100% -> 01/04/2020 📅 [probar](https://alejandromoreira-constuctprototype.netlify.com/)
-* [ ] **Puliendo el juego:** 0%
-* [ ] **Terminar el juego y publicar:** 0%
+* [x] **Puliendo el juego:** 100% -> 02/04/2020 📅
+* [x] **Terminar el juego y publicar:** 100% -> 03/04/2020 📅
