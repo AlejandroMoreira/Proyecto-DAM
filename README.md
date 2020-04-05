@@ -9,7 +9,7 @@ _Curso del uso de Contruct2 y Construct3 para el desarrollo de videojuegos_
 * [Software online](https://editor.construct.net/) -> Herramienta usada para poder desarrollar el proyecto sin necesidad de instalar nada.
 
 ### Progreso 🚴
-* [x] **Intoducción:** 100% -> 31/03/2020 📅
+* [x] **Introducción:** 100% -> 31/03/2020 📅
 * [x] **Prototipo:** 100% -> 01/04/2020 📅 
   * [ver proyecto](https://github.com/AlejandroMoreira/prototipo) -> Enlace al proyecto en GitHub
   * [probar prototipo](https://alejandromoreira-constuctprototype.netlify.com/) -> Probar el juego exportado en HTML5, subido al servidor netlify
@@ -24,12 +24,12 @@ _Curso para desarrollar un minijuego con Unity y C#_
 * [Instalador de la última versión de Unity](https://store.unity.com/es/download-nuo) -> Se debe descargar la última versión de UnityHub, cliente para poder instalar Unity.
 
 ### Documentación de Unity 📋
-* [Documentación sobre el motor de Unity](https://docs.unity3d.com/Manual/index.html)
-* [Documentación sobre Scripting Unity](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/index.html)
+* [Documentación sobre el motor de Unity](https://docs.unity3d.com/Manual/index.html) -> Manual que enseña el uso del motor Unity y sus características
+* [Documentación sobre Scripting Unity](https://docs.unity3d.com/2018.4/Documentation/ScriptReference/index.html) -> Manual de las clases de Unity
 
 ### Progreso 🚴
 * [x] **Introducción:** 100% -> 04/04/2020 📅
 * [x] **Setup Unity3D:** 100% -> 04/04/2020 📅
 * [x] **Conceptos básicos Unity:** 100% -> 04/04/2020 📅
-* [ ] **Conceptos básicos C#:** 0%
+* [x] **Conceptos básicos C#:** 100% -> 05/04/2020 📅
 * [ ] **Creación de un minijuego:** 0%
