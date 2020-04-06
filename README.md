@@ -11,12 +11,13 @@ _Curso del uso de Contruct2 y Construct3 para el desarrollo de videojuegos_
 ### Progreso 🚴
 * [x] **Introducción:** 100% -> 31/03/2020 📅
 * [x] **Prototipo:** 100% -> 01/04/2020 📅 
-  * [ver proyecto](https://github.com/AlejandroMoreira/prototipo) -> Enlace al proyecto en GitHub
-  * [probar prototipo](https://alejandromoreira-constuctprototype.netlify.com/) -> Probar el juego exportado en HTML5, subido al servidor netlify
+ * [ver proyecto](https://github.com/AlejandroMoreira/prototipo) -> Enlace al proyecto en GitHub
+ * [probar prototipo](https://alejandromoreira-constuctprototype.netlify.com/) -> Probar el juego exportado en HTML5, subido al servidor netlify
+  
 * [x] **Puliendo el juego:** 100% -> 02/04/2020 📅
 * [x] **Terminar el juego y publicar:** 100% -> 03/04/2020 📅
 
-## Introducción a la programación de Videojuegos con C# y Unity
+## Introducción a la programación de Videojuegos con C# y Unity 🚀
 _Curso para desarrollar un minijuego con Unity y C#_
 
 ### Pre-requisitos 🔧
@@ -32,4 +33,6 @@ _Curso para desarrollar un minijuego con Unity y C#_
 * [x] **Setup Unity3D:** 100% -> 04/04/2020 📅
 * [x] **Conceptos básicos Unity:** 100% -> 04/04/2020 📅
 * [x] **Conceptos básicos C#:** 100% -> 05/04/2020 📅
-* [ ] **Creación de un minijuego:** 0%
+* [x] **Creación de un minijuego:** 100% -> 06/04/2020 📅
+ * [ver proyecto](https://github.com/AlejandroMoreira/Prototipo-Unity/blob/master/README.md) -> Enlace al proyecto en GitHub
+ * [probar prototipo](https://drive.google.com/open?id=1xYcBLgLBAZ511eTjIQT_kgPwr2BP1JC0) -> Enlace a google drive para descargar su instalador, mas información en el proyecto de GitHub.
