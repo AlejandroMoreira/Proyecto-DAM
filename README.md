@@ -36,3 +36,17 @@ _Curso para desarrollar un minijuego con Unity y C#_
 * [x] **Creación de un minijuego:** 100% -> 06/04/2020 📅
  * [ver proyecto](https://github.com/AlejandroMoreira/Prototipo-Unity/blob/master/README.md) -> Enlace al proyecto en GitHub
  * [probar prototipo](https://drive.google.com/open?id=1xYcBLgLBAZ511eTjIQT_kgPwr2BP1JC0) -> Enlace a google drive para descargar su instalador, mas información en el proyecto de GitHub.
+ 
+## Curso Unity 🚀
+ _Descripciín_
+ 
+### Progreso
+* [x] **Introducción:** 100% -> 07/04/2020 📅
+* [ ] **Introducción a Unity:** 0%
+* [ ] **Unity Hub:** 0%
+* [ ] **Interfaz de usuario de Unity:** 0%
+* [ ] **Conceptos esenciales:** 0%
+* [ ] **Asset Store:** 0%
+* [ ] **Prefabs:** 0%
+* [ ] **Cache server:** 0%
+* [ ] **Build Settings:** 0%
