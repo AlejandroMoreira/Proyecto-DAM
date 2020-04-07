@@ -38,12 +38,12 @@ _Curso para desarrollar un minijuego con Unity y C#_
  * [probar prototipo](https://drive.google.com/open?id=1xYcBLgLBAZ511eTjIQT_kgPwr2BP1JC0) -> Enlace a google drive para descargar su instalador, mas información en el proyecto de GitHub.
  
 ## Curso Unity 🚀
- _Descripciín_
+ _Curso para aprender a usar las herramientas de Unity_
  
 ### Progreso
 * [x] **Introducción:** 100% -> 07/04/2020 📅
-* [ ] **Introducción a Unity:** 0%
-* [ ] **Unity Hub:** 0%
+* [x] **Introducción a Unity:** 100% -> 07/04/2020 📅
+* [x] **Unity Hub:** 100% -> 07/04/2020 📅
 * [ ] **Interfaz de usuario de Unity:** 0%
 * [ ] **Conceptos esenciales:** 0%
 * [ ] **Asset Store:** 0%
