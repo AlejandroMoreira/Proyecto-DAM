@@ -48,5 +48,5 @@ _Curso para desarrollar un minijuego con Unity y C#_
 * [x] **Conceptos esenciales:** 100% -> 09/04/2020 📅
 * [x] **Asset Store:** 100% -> 09/04/2020 📅
 * [x] **Prefabs:** 100% -> 09/04/2020 📅
-* [ ] **Cache server:** 0%
-* [ ] **Build Settings:** 0%
+* [x] **Cache server:** 100% -> 09/04/2020 📅
+* [x] **Build Settings:** 100% -> 09/04/2020 📅
