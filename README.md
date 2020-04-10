@@ -50,3 +50,13 @@ _Curso para desarrollar un minijuego con Unity y C#_
 * [x] **Prefabs:** 100% -> 09/04/2020 📅
 * [x] **Cache server:** 100% -> 09/04/2020 📅
 * [x] **Build Settings:** 100% -> 09/04/2020 📅
+
+## Curso Componentes y API de Unity 🚀
+_Creación de componentes en Unity y sus APIs más comunes_
+
+### Progreso
+* [ ] **Introducción a la programación de componentes:**  37%
+* [ ] **El ciclo de vida de un componente:**  0%
+* [ ] **Acceso a componentes:**  0%
+* [ ] **Introducción a la API de Unity:**  0%
+* [ ] **Co-rutinas:**  0%
