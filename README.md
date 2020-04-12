@@ -55,7 +55,7 @@ _Curso para desarrollar un minijuego con Unity y C#_
 _Creación de componentes en Unity y sus APIs más comunes_
 
 ### Progreso
-* [ ] **Introducción a la programación de componentes:**  37%
+* [x] **Introducción a la programación de componentes:**  100% -> 12/4/2020 📅
 * [ ] **El ciclo de vida de un componente:**  0%
 * [ ] **Acceso a componentes:**  0%
 * [ ] **Introducción a la API de Unity:**  0%
