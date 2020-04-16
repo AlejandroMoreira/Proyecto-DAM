@@ -60,3 +60,16 @@ _Creación de componentes en Unity y sus APIs más comunes_
 * [x] **Acceso a componentes:**  100% -> 13/4/2020 📅
 * [x] **Introducción a la API de Unity:**  100% -> 15/4/2020 📅
 * [x] **Co-rutinas:**  100% -> 16/4/2020 📅
+
+## Matemáticas para videojuegos 🚀
+_Curso sobre las matemáticas imprescindibles necesarias para crear videojuegos_
+
+### Progreso
+* [x] **Introducción:**  100% -> 16/4/2020 📅
+* [x] **Sistemas de coordenadas en Unity:**  100% -> 16/4/2020 📅
+* [x] **Vectores:**  100% -> 16/4/2020 📅
+* [x] **Trigonometría:**  100% -> 16/4/2020 📅
+* [ ] **Interpolación lineal:**  0%
+* [ ] **Cuaterniones:**  0%
+* [ ] **Clase Mathf:**  0%
+
