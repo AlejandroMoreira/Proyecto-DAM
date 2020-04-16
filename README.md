@@ -58,5 +58,5 @@ _Creación de componentes en Unity y sus APIs más comunes_
 * [x] **Introducción a la programación de componentes:**  100% -> 12/4/2020 📅
 * [x] **El ciclo de vida de un componente:**  100% -> 13/4/2020 📅
 * [x] **Acceso a componentes:**  100% -> 13/4/2020 📅
-* [x] **Introducción a la API de Unity:**  15/4/2020 📅
-* [ ] **Co-rutinas:**  0%
+* [x] **Introducción a la API de Unity:**  100% -> 15/4/2020 📅
+* [x] **Co-rutinas:**  100% -> 16/4/2020 📅
