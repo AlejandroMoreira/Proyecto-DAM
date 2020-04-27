@@ -18,7 +18,7 @@ _Curso del uso de Contruct2 y Construct3 para el desarrollo de videojuegos_
 * [x] **Terminar el juego y publicar:** 100% -> 03/04/2020 📅
 
 ## Introducción a la programación de Videojuegos con C# y Unity 🚀
-_Curso para desarrollar un minijuego con Unity y C#_
+_Curso para desarrollar un minijuego en 3d con Unity y C#_
 
 ### Pre-requisitos 🔧
 * [Formulario de registro en Unity](https://id.unity.com/en/conversations/c0c77d84-b01e-4a41-a8a8-8949b83fd5ef009f) -> Se debe completar el formulario de registro para crear una Unity Id con la que poder acceder a muchos de los recursos que ofrece Unity.
@@ -72,4 +72,17 @@ _Curso sobre las matemáticas imprescindibles necesarias para crear videojuegos_
 * [x] **Interpolación lineal:**  100% -> 18/4/2020 📅
 * [x] **Cuaterniones:**  100% -> 18/4/2020 📅
 * [x] **Clase Mathf:**  100% -> 18/4/2020 📅
+
+## Unity 5: Programación de videojuegos 2D 🚀
+_Curso para desarrollar un minijuego 2d con Unity y C#_
+
+### Progreso
+* [x] **Introducción:**  100% -> 27/4/2020 📅
+* [x] **Unity:**  100% -> 27/4/2020 📅
+* [x] **Conceptos básicos 2D:**  0%
+* [x] **Animación 2D:**  0%
+* [x] **Unity UI:**  0%
+* [x] **Sonidos:**  0%
+* [x] **Exportando juego:**  0%
+
 
