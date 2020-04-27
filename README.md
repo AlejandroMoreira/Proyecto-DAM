@@ -79,10 +79,10 @@ _Curso para desarrollar un minijuego 2d con Unity y C#_
 ### Progreso
 * [x] **Introducción:**  100% -> 27/4/2020 📅
 * [x] **Unity:**  100% -> 27/4/2020 📅
-* [x] **Conceptos básicos 2D:**  0%
-* [x] **Animación 2D:**  0%
-* [x] **Unity UI:**  0%
-* [x] **Sonidos:**  0%
-* [x] **Exportando juego:**  0%
+* [ ] **Conceptos básicos 2D:**  0%
+* [ ] **Animación 2D:**  0%
+* [ ] **Unity UI:**  0%
+* [ ] **Sonidos:**  0%
+* [ ] **Exportando juego:**  0%
 
 
