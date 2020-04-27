@@ -12,7 +12,7 @@ _Curso del uso de Contruct2 y Construct3 para el desarrollo de videojuegos_
 * [x] **Introducción:** 100% -> 31/03/2020 📅
 * [x] **Prototipo:** 100% -> 01/04/2020 📅 
  * [ver proyecto](https://github.com/AlejandroMoreira/prototipo) -> Enlace al proyecto en GitHub
- * [probar prototipo](https://alejandromoreira-constuctprototype.netlify.com/) -> Probar el juego exportado en HTML5, subido al servidor netlify
+ * [probar prototipo](https://alejandromoreira-constuctprototype.netlify.app/) -> Probar el juego exportado en HTML5, subido al servidor netlify
   
 * [x] **Puliendo el juego:** 100% -> 02/04/2020 📅
 * [x] **Terminar el juego y publicar:** 100% -> 03/04/2020 📅
@@ -79,6 +79,8 @@ _Curso para desarrollar un minijuego 2d con Unity y C#_
 ### Progreso
 * [x] **Introducción:**  100% -> 27/4/2020 📅
 * [x] **Unity:**  100% -> 27/4/2020 📅
+ * [ver proyecto](https://github.com/AlejandroMoreira/Prototipo-Curso-Unity-2D) -> Enlace al proyecto en GitHub
+ * [probar prototipo](https://modest-meitner-cd397d.netlify.app/) -> Probar el juego exportado en WebGl, subido al servidor netlify
 * [ ] **Conceptos básicos 2D:**  0%
 * [ ] **Animación 2D:**  0%
 * [ ] **Unity UI:**  0%
