@@ -82,7 +82,7 @@ _Curso para desarrollar un minijuego 2d con Unity y C#_
  * [ver proyecto](https://github.com/AlejandroMoreira/Prototipo-Curso-Unity-2D) -> Enlace al proyecto en GitHub
  * [probar prototipo](https://modest-meitner-cd397d.netlify.app/) -> Probar el juego exportado en WebGl, subido al servidor netlify
 * [x] **Conceptos básicos 2D:**  100% -> 06/5/2020 📅
-* [ ] **Animación 2D:**  0%
+* [x] **Animación 2D:**  100% -> 06/5/2020 📅
 * [ ] **Unity UI:**  0%
 * [ ] **Sonidos:**  0%
 * [ ] **Exportando juego:**  0%
