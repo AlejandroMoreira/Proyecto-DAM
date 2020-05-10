@@ -87,4 +87,17 @@ _Curso para desarrollar un minijuego 2d con Unity y C#_
 * [x] **Sonidos:**  100% -> 07/5/2020 📅
 * [x] **Exportando juego:**  100% -> 07/5/2020 📅
 
+## Práctica Unity 🚀
+_Como punto final del proyecto se realizará una práctica con Unity learn _
 
+### Pre-requisitos 🔧
+
+### Información ❓
+
+### Progreso
+* [x] **Get Started with the Creator Kit: FPS:**  100% -> 10/5/2020 📅
+* [x] **Customize the Germ Targets:**  100% -> 10/5/2020 📅
+* [x] **Design your Own Level:**  100% -> 10/5/2020 📅
+* [x] **Modify the Doctor’s Weapons:**  100% -> 10/5/2020 📅
+* [x] **Create a Level Endpoint:**  100% -> 10/5/2020 📅
+* [x] **Onward and upward!**  100% -> 10/5/2020 📅
