@@ -88,11 +88,11 @@ _Curso para desarrollar un minijuego 2d con Unity y C#_
 * [x] **Exportando juego:**  100% -> 07/5/2020 📅
 
 ## Práctica Unity 🚀
-_Como punto final del proyecto se realizará una práctica con Unity learn _
+_Como punto final del proyecto se realizará una práctica con Unity learn disponible gratuitamente durrante la crisis del Coronavirus_
 
 ### Pre-requisitos 🔧
-
-### Información ❓
+* Instalar Unity Hub y Unity.
+* Instalar el proyecto Creator Kit: FPS. (Disponible con la versión premiun de Unity, gratuita durante 3 meses por la crisis del Coronavirus)
 
 ### Progreso
 * [x] **Get Started with the Creator Kit: FPS:**  100% -> 10/5/2020 📅
@@ -101,3 +101,6 @@ _Como punto final del proyecto se realizará una práctica con Unity learn _
 * [x] **Modify the Doctor’s Weapons:**  100% -> 10/5/2020 📅
 * [x] **Create a Level Endpoint:**  100% -> 10/5/2020 📅
 * [x] **Onward and upward!**  100% -> 10/5/2020 📅
+* [x] **Práctica:**
+  * [Descargar el instalador desde Drive](https://drive.google.com/open?id=1gqB1vQSUdAepSeJhwCSwdhOhJ3TmuoGE)
+  * [Proyecto en Github](https://github.com/AlejandroMoreira/ElCuerpoHumanoMal)
